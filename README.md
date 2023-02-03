@@ -13,9 +13,20 @@ Download PowerShell 7.0 from https://github.com/PowerShell/powershell/releases o
 Open the Command Prompt and run the following script to install Winget: winget install winget
 
 ## Usage
-Download the Winget Wizard.exe file
-Double-click the file to run the tool
-Follow the on-screen instructions to search or install the desired app
+To use Winget Wizard v2.2:
+
+Download the Winget Wizard v2.2 file.
+Double-click the file to run the tool.
+Follow the on-screen instructions to search, install the desired app, or install a preset list of apps.
+To set PowerShell 7 as the default program to open the Winget Wizard v2.2 file:
+a. Right-click the Winget Wizard v2.2 file
+b. Select "Properties"
+c. Click on "Open with"
+d. Select "PowerShell 7"
+e. Click "OK"
+f. Close the Properties window.
+
+Note: The Winget Wizard v2.2 script requires PowerShell 7 or higher to run correctly.
 
 ## Support
 If you encounter any issues while using the tool, please feel free to raise a support ticket on our GitHub repository. The developer will help as much as possible to address the issue.
