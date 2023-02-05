@@ -10,7 +10,7 @@ Winget package manager (installed by default on Windows 10 version 2004 and late
 ## Installation
 If you don't already have PowerShell 7.0 or later and Winget package manager, follow these steps to install them:
 Download PowerShell 7.0 from https://github.com/PowerShell/powershell/releases
-Open the Command Prompt and run the following script to install Winget: winget *install winget*
+Open the Command Prompt and run the following script to install Winget: **winget install winget**
 
 ## Usage
 To use Winget Wizard v2.2:
