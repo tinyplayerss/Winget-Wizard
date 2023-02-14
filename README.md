@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/123846642/218815807-f362a881-0cfb-4fdf-9559-aaeccc29b82b.png)
+
 ## Winget Wizard Tool
 
 Winget Wizard Tool is a free and open-source tool that makes it easy to install any program or application on your Windows computer, without needing to know the Winget command.
